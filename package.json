@@ -1,6 +1,5 @@
 {
-  "homepage": "http://machadop1407.github.io/chartjs-react-tutorial",
-  "name": "chartjs-tut",
+  "name": "graph-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
