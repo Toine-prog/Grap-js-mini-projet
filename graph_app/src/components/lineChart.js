@@ -1,8 +1,9 @@
 import React from 'react';
 import { Line } from 'react-chartjs-2';
+import {Chart as ChartJS} from 'chart.js/auto'
 
-function lineChart({userData}) {
-    return <div><Line data={userData}/></div>
+function LineChart({ userData }) {
+    return <Line data={userData} />;
 }
 
-export default lineChart;
+export default LineChart;
